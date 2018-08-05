@@ -1,1 +1,1 @@
-my exercise on machine learning at coursera.
+my exercise on machine learning from coursera.
